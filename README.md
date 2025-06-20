@@ -1,7 +1,7 @@
 # Jumping Dog
 ### Video Demo https://youtu.be/aW94jHjtCpE
 ### Description
-My project is a simple game in which a player controls a dog to go up the blocks as high as possible, while avoiding the falling rocks. I decided to make this game because I remembered obsessively playing "Doodle Jump" in my middle school years and I wanted to create a similar but simpler game on my own.
+My project is a simple game in which a player controls a dog to go up the blocks as high as possible, while avoiding the falling rocks. I decided to make this game because I remembered the game "Doodle Jump" being popular in middle school and I wanted to create a similar but simpler game on my own.
 
 I only have one file for the project called "project.py". I first imported two modules: Pygame and random. The Pygame module was needed for me to load different elements of game such as music and sprites and to update the screen. The random module was needed to randomize the position of the rocks.
 
